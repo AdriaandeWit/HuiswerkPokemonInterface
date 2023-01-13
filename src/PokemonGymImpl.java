@@ -154,7 +154,7 @@ public class PokemonGymImpl implements PokemonGym {
 
         switch (pokemon.getType()) {
             case "fire" -> {
-                fire = new FirePokemon(pokemon.getName(), pokemon.getLevel(), pokemon.getHp(), pokemon.getFood(), pokemon.getSounds(), );
+                fire = new FirePokemon(pokemon.getName(), pokemon.getLevel(), pokemon.getHp(), pokemon.getFood(), pokemon.getSounds());
                 switch (choosenAttack) {
                     case "inferno" -> fire.inferno(pokemon, gymPokemon);
                     case "pyroball" -> fire.pyroBall(pokemon, gymPokemon);
@@ -201,7 +201,7 @@ public class PokemonGymImpl implements PokemonGym {
 
         switch (gymPokemon.getType()) {
             case "fire" -> {
-                fire = new FirePokemon(gymPokemon.getName(), gymPokemon.getLevel(), gymPokemon.getHp(), gymPokemon.getFood(), gymPokemon.getSounds(), );
+                fire = new FirePokemon(gymPokemon.getName(), gymPokemon.getLevel(), gymPokemon.getHp(), gymPokemon.getFood(), gymPokemon.getSounds());
                 String attack = fire.getAttacks().get(randomAttackByGymOwner());
                 switch (attack) {
                     case "inferno" -> fire.inferno(gymPokemon, pokemon);

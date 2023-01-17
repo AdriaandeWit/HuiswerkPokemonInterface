@@ -8,6 +8,7 @@ public abstract class Pokemon {
     private final String sounds;
     private int hp;
 
+
     public Pokemon(String name, int level, int hp, String food, String sounds , String type) {
         this.name = name;
         this.level = level;
@@ -39,11 +40,10 @@ public abstract class Pokemon {
         return sounds;
     }
 
-    public List<String>getAttacks(){
-
+    public void setHp(int hp) {
+        this.hp = hp;
     }
 
-
-
+    public abstract List<String>getAttacks();
 
 }

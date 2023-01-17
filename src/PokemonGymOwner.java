@@ -11,6 +11,6 @@ public class PokemonGymOwner extends PokemonTrainer{
 
     }
 
-    public String getTown() {
+    public void getTown() {
     }
 }

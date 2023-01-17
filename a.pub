@@ -1,0 +1,229 @@
+[33mcommit 06cda5ca7a3e0cc962e2ea4b48e95dc2d6278b4f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: AdriaandeWit <adriaandewit3@gmail.com>
+Date:   Tue Jan 17 11:45:13 2023 +0100
+
+    de beslissingsstructuur van alle subklasse aangemaakt
+
+[33mcommit 4534a1d41510c99f03aa16429fa58484cc681271[m
+Author: AdriaandeWit <adriaandewit3@gmail.com>
+Date:   Sun Jan 15 13:53:12 2023 +0100
+
+    first commit
+
+[33mcommit 875447056db6a080b984cd5fcf4bf6263f2a89ec[m
+Author: AdriaandeWit <adriaandewit3@gmail.com>
+Date:   Fri Jan 13 14:02:21 2023 +0100
+
+    test
+
+[33mcommit 58af37088ebc407f18d5a543cb97319b8a9affe7[m
+Author: AdriaandeWit <adriaandewit3@gmail.com>
+Date:   Thu Jan 12 14:10:06 2023 +0100
+
+    super klasse pokemon gemaakt en die abstract gemaakt.
+    sub klasse Grass, Water, fire, electric. in de sub klasse vind je constructor en vier methodes die de aanvallen bevatten. Zijn nog niet helemaal voleddig uitgewerkt mist nog een beslissings structuur.
+    daarnaast de foutenmeldingen weggewerkt die voorkwamen in de pokemonGymLmpl
+    ook twee nieuwe klasses aangemaakt de pokemon trainer en de pokemongymOwner. de klassen bevatten de vabriale voor het vormen van een speler. denk hierbij aan naam, plaatsnaam , de pokemons van de trainer.
+    het aanmaken van een interface die methode namen bewaard.
+
+[33mcommit 4c58c2fb011c4152bccf0309e49ca8ea63f3ad6b[m
+Author: AdriaandeWit <adriaandewit3@gmail.com>
+Date:   Wed Jan 11 10:25:26 2023 +0100
+
+    first commit
+
+[33mcommit 775f02e8768753a26f72a0a3dd605a7289ac6d64[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Esli-Novi <78359217+Esli-Novi@users.noreply.github.com>
+Date:   Tue Jan 3 10:05:59 2023 +0100
+
+    Update readme
+
+[33mcommit e5d6b829080a1b9fd87d1ee52bc97d18c03524ab[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Fri Dec 16 09:13:22 2022 +0100
+
+    stap 7 verwijderd
+
+[33mcommit 9c95501f116a68a80b09d9012880d83301f6a4a5[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Fri Dec 16 09:03:33 2022 +0100
+
+    readme
+
+[33mcommit cc8c6574084427cbf72701a318b79619795cdea7[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Wed Dec 14 18:21:00 2022 +0100
+
+    list
+
+[33mcommit 3b04c093313a75654b97ccdec57f1232cfd44298[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Wed Dec 14 13:11:46 2022 +0100
+
+    changed structure
+
+[33mcommit 45561e2e8609fbbe1b9d463e0207f862a8bdb239[m
+Merge: 41daea9 3bf8f9c
+Author: MRensen <markrensen@hotmail.com>
+Date:   Wed Oct 19 14:02:21 2022 +0200
+
+    Merge pull request #1 from hogeschoolnovi/version2
+    
+    version 2
+
+[33mcommit 3bf8f9cecf06959a0dbf3bdfbe6bb3b98fa441f2[m[33m ([m[1;31morigin/version2[m[33m)[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Mon Jul 25 09:42:29 2022 +0200
+
+    Update README.md
+
+[33mcommit 756fc03a4a73737b5e199b840f7581ef079e8a7a[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Thu Jul 14 21:00:16 2022 +0200
+
+    version 2
+
+[33mcommit 41daea9f4eeba6bf1912f71bb1a22ec990933694[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Thu Jun 9 14:45:34 2022 +0200
+
+    Update Variabelen.java
+
+[33mcommit 2ddd842e5d2f82885b2f6f4c936ba2884a88bd9a[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Tue Jun 7 16:44:06 2022 +0200
+
+    Update README.md
+
+[33mcommit e1b94bc0e6d7b08807520deb1e372f61337060d4[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Tue Jun 7 16:37:04 2022 +0200
+
+    Update README.md
+
+[33mcommit 120d432d4ddfe272b7ecf00d87e13e1a0d25bd2e[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Tue Jun 7 13:38:05 2022 +0200
+
+    update
+
+[33mcommit e217b01aa71c8e49704a2ea0b7c264921070893f[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Tue Jun 7 09:11:20 2022 +0200
+
+    voorbeelden toegevoegd
+
+[33mcommit b4b4d67809aa477c19f77ef7cba75c537742d34f[m
+Author: MRensen <markrensen@hotmail.com>
+Date:   Tue Jun 7 09:01:04 2022 +0200
+
+    voorbeelden toegevoegd
+
+[33mcommit 531f713b2414ef11389fc919ab5e9606f1d5c8a9[m
+Merge: b5985f9 edf5c05
+Author: Whitedragon1987 <vanoostenjohan@hotmail.com>
+Date:   Thu Mar 17 16:22:59 2022 +0100
+
+    Merge branch 'main' of github.com:hogeschoolnovi/backend-java-pokemon-2
+
+[33mcommit edf5c05986d74d226a33a2faac3b4ea5866c2b54[m
+Author: novaeeken <32450174+novaeeken@users.noreply.github.com>
+Date:   Thu Mar 17 16:18:25 2022 +0100
+
+    Update kleine dingetjes
+
+[33mcommit b5985f90302b1e8ba838daecc158a4212cae1385[m
+Merge: 02b03bf efa06a3
+Author: Whitedragon1987 <vanoostenjohan@hotmail.com>
+Date:   Thu Mar 17 16:14:54 2022 +0100
+
+    Merge branch 'main' of github.com:hogeschoolnovi/backend-java-pokemon-2
+
+[33mcommit 02b03bf72ac843f60ea3723b265f31112ceb8fd1[m
+Author: Whitedragon1987 <vanoostenjohan@hotmail.com>
+Date:   Thu Mar 17 16:14:28 2022 +0100
+
+    assets
+
+[33mcommit efa06a3430173267da205784572f663aec7b6059[m
+Author: Johan van Oosten <80273090+Whitedragon1987@users.noreply.github.com>
+Date:   Thu Mar 17 14:54:09 2022 +0100
+
+    Update README.md
+
+[33mcommit 39f552460928c6de2004260bb050463c48494220[m
+Author: Johan van Oosten <80273090+Whitedragon1987@users.noreply.github.com>
+Date:   Thu Mar 17 14:48:14 2022 +0100
+
+    Update README.md
+
+[33mcommit 97067cdaa4b9891dd30a73ba49ba86a2b339ffbc[m
+Author: Esli-Novi <78359217+Esli-Novi@users.noreply.github.com>
+Date:   Thu Mar 17 09:11:03 2022 +0100
+
+    Paar foutjes eruit gehaald op verzoek van Tessa
+
+[33mcommit ed06c07d3fa48b533071ce322f73c16734e3337d[m
+Author: Esli-Novi <78359217+Esli-Novi@users.noreply.github.com>
+Date:   Wed Mar 16 15:18:49 2022 +0100
+
+    foutje verbeterd
+
+[33mcommit 1933a5685e5649e52defe9f2dfa55552540d0caf[m
+Author: Esli-Novi <78359217+Esli-Novi@users.noreply.github.com>
+Date:   Wed Mar 16 15:12:16 2022 +0100
+
+    Spelfoutje
+
+[33mcommit cf33c51595d319f6482739900160337d4652d4cf[m
+Author: Esli-Novi <78359217+Esli-Novi@users.noreply.github.com>
+Date:   Wed Mar 16 15:04:04 2022 +0100
+
+    GrassPokemon stond er twee keer in
+
+[33mcommit af2c79819e065dd540f927bacbfd152981a8af58[m
+Author: Esli-Novi <78359217+Esli-Novi@users.noreply.github.com>
+Date:   Wed Mar 16 13:38:21 2022 +0100
+
+    Esli: meermalen vervangen door meerdere keren
+
+[33mcommit 06dfbe5d474790b28536093fbba1c40071a3408a[m
+Author: Esli-Novi <78359217+Esli-Novi@users.noreply.github.com>
+Date:   Wed Mar 16 13:37:08 2022 +0100
+
+    Gecheckt door Esli
+    
+    Leuke opdracht! Hieronder mijn feedback:
+    URL: Ik zou “2” vervangen door iets wat iets zegt over de opdracht: het onderwerp dat behandeld wordt. Klassen en methoden dus.
+    En de perfecte volgorde voor de url zou dan zijn: backend-java-klassen-methoden-pokemon
+    Regel 3: In de tweede zin praat je over access modifiers, keywords, overloading, maar deze opdracht gaat over klassen en methoden. En juist over die laatste twee gaat de opdracht. Ik heb daarom dit stukje tekst aangepast. Kijk er nog even naar.
+    Regel 14: ik zou ‘super klasse’ hier dikgedrukt doen, of schuin, in ieder geval de nadruk erop leggen.
+    Regel 14: ‘Ook gaan we kijken naar overloading, polymorfisme en een interface.’ Komen die eerste twee wel aan bod in de opdracht?
+    Pokemon-plaatje doet het niet
+    Regel 54 en 56:  zijn deze niet hetzelfde?
+    Spel logica: Ik zou hier de icoontjes nog toevoegen, voor de leuk :D
+    Ik heb de bonusopdrachten herschreven. Kijk maar even of het zo klopt.
+
+[33mcommit 315455350e3eba3bec5b3fab542b520644e8811b[m
+Author: Whitedragon1987 <vanoostenjohan@hotmail.com>
+Date:   Tue Mar 15 17:42:50 2022 +0100
+
+    assets
+
+[33mcommit 5c8cc7d8933d0e6c7b77561a03da07fdff3c2ad0[m
+Author: Johan van Oosten <80273090+Whitedragon1987@users.noreply.github.com>
+Date:   Tue Mar 15 17:35:09 2022 +0100
+
+    Update README.md
+
+[33mcommit 2e094b223540e81d64c3e6236fa9f10e5543ca6b[m
+Author: Johan van Oosten <80273090+Whitedragon1987@users.noreply.github.com>
+Date:   Tue Mar 15 16:57:00 2022 +0100
+
+    Create README.md
+
+[33mcommit 0ac0c9273d2eeed43c487d4b6780da6e9b40cdda[m
+Author: Whitedragon1987 <vanoostenjohan@hotmail.com>
+Date:   Tue Mar 15 16:51:29 2022 +0100
+
+    main

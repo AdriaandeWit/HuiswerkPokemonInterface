@@ -96,6 +96,7 @@ public class ElectricPokemon extends Pokemon{
 
     public void voltTackle(Pokemon pokemon, Pokemon gymPokemon) {
         System.out.println(pokemon.getName() + "Attacks" + gymPokemon.getName() + "with volt tackele");
+        electricAttacks(pokemon, gymPokemon);
     }
 
     @Override
